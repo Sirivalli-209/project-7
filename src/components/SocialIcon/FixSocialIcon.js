@@ -58,7 +58,7 @@ function FixSocialIcon() {
       <ScrollAnimation animateIn="fadeIn" animateOnce={true}>
         <ul>
           <li className="item">
-            <a href="https://www.linkedin.com/in/vadde-sirivalli-akshitha-0299ba255"
+            <a href="https://www.linkedin.com/in/vadde-sirivalli-akshitha-0299ba255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               target="_blank"
               rel="noopener noreferrer"
             >
