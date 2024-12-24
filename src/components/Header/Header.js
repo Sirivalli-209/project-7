@@ -20,14 +20,14 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://sirivalli-resume.netlify.app"
+            href="https://sirivalliakshit1.hackerresume.io/a023d03b-4686-40d0-960c-ed3a18c50790"
             target="_blank"
             rel="noopener noreferrer"
           >
             Resume
           </a>
         </NavBtn>
-        <Bars onClick={"https://sirivalli-resume.netlify.app"} />
+        <Bars onClick={"https://sirivalliakshit1.hackerresume.io/a023d03b-4686-40d0-960c-ed3a18c50790"} />
       </Nav>
     </div>
   );
